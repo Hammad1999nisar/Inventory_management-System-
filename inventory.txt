@@ -1,0 +1,1 @@
+[{"name": "sugar", "quantity": 50, "cost": 120.0, "verified": true}, {"name": "salt", "quantity": 3, "cost": 20.0, "verified": false}, {"name": "sugar", "quantity": 3, "cost": 200.0, "verified": true}, {"name": "chilli", "quantity": 5, "cost": 30.0, "verified": true}]
